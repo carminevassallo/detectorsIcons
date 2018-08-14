@@ -1,0 +1,9 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+374416628,Thu May 03 13:31:00  2018,374416629,$ mvn clean verify,Thingsboard Server DAO Layer,org.thingsboard.server.dao.SqlDaoServiceTestSuite,-1,0,-1,true
+353258955,Wed Mar 14 10:20:31  2018,353258957,$ mvn clean verify,Thingsboard Server DAO Layer,org.thingsboard.server.dao.NoSqlDaoServiceTestSuite,-138,0,-24,true
+365489040,Thu Apr 12 07:58:51  2018,365489041,$ mvn clean verify,Thingsboard Rule Engine Components,org.thingsboard.rule.engine.filter.TbJsFilterNodeTest,-7,0,-4,true
+365489040,Thu Apr 12 07:58:51  2018,365489041,$ mvn clean verify,Thingsboard Rule Engine Components,org.thingsboard.rule.engine.filter.TbJsSwitchNodeTest,-2,0,-1,true
+368522829,Thu Apr 19 08:02:21  2018,368522830,$ mvn clean verify,ThingsBoard Server Application,org.thingsboard.server.mqtt.MqttSqlTestSuite,-7,2,0,true
+368522829,Thu Apr 19 08:02:21  2018,368522830,$ mvn clean verify,ThingsBoard Server Application,org.thingsboard.server.mqtt.MqttNoSqlTestSuite,-7,2,0,true
+368522829,Thu Apr 19 08:02:21  2018,368522830,$ mvn clean verify,ThingsBoard Server Application,org.thingsboard.server.controller.ControllerNoSqlTestSuite,-10,0,-17,true
+368522829,Thu Apr 19 08:02:21  2018,368522830,$ mvn clean verify,ThingsBoard Server Application,org.thingsboard.server.controller.ControllerSqlTestSuite,-10,0,-17,true

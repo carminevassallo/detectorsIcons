@@ -1,0 +1,8 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+324627439,Wed Jan 03 15:35:05  2018,324627440,$ mvn clean install --batch-mode,openmrs-api,org.openmrs.api.ProgramWorkflowServiceTest,-1,0,-6,true
+347734910,Thu Mar 01 12:14:22  2018,347734911,$ mvn clean install --batch-mode,openmrs-api,org.openmrs.CohortTest,-1,0,-1,true
+348188992,Fri Mar 02 11:15:19  2018,348188993,$ mvn clean install --batch-mode,openmrs-api,org.openmrs.CohortTest,-1,0,-1,true
+350286288,Wed Mar 07 12:10:22  2018,350286289,$ mvn clean install --batch-mode,openmrs-api,org.openmrs.api.PatientServiceTest,-1,0,-1,true
+368440156,Thu Apr 19 02:07:52  2018,368440157,$ mvn clean install --batch-mode,openmrs-api,org.openmrs.api.db.PatientDAOTest,-2,0,-12,true
+406408692,Fri Jul 20 20:24:10  2018,406408693,$ mvn clean install --batch-mode,openmrs-api,org.openmrs.api.PatientServiceTest,-2,0,-1,true
+408707175,Thu Jul 26 21:45:11  2018,408707176,$ mvn clean install --batch-mode,openmrs-api,org.openmrs.api.PatientServiceTest,-2,0,-1,true

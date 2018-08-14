@@ -1,0 +1,16 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+381374103,Sun May 20 17:27:37  2018,381374104,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerConfigReaderTest,-1,0,-1,true
+381374103,Sun May 20 17:27:37  2018,381374105,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerConfigReaderTest,-1,0,-1,true
+381374103,Sun May 20 17:27:37  2018,381374106,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerConfigReaderTest,-1,0,-1,true
+381374103,Sun May 20 17:27:37  2018,381374107,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerConfigReaderTest,-1,0,-1,true
+381374103,Sun May 20 17:27:37  2018,381374108,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerConfigReaderTest,-1,0,-1,true
+386998226,Sat Jun 02 05:42:56  2018,386998227,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerCertificatesTest,-1,0,-1,true
+386998226,Sat Jun 02 05:42:56  2018,386998228,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerCertificatesTest,-1,0,-1,true
+386998226,Sat Jun 02 05:42:56  2018,386998229,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerCertificatesTest,-1,0,-1,true
+386998226,Sat Jun 02 05:42:56  2018,386998230,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerCertificatesTest,-1,0,-1,true
+386998226,Sat Jun 02 05:42:56  2018,386998231,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerCertificatesTest,-1,0,-1,true
+387092818,Sat Jun 02 13:04:55  2018,387092819,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerCertificatesTest,-1,1,0,true
+387092818,Sat Jun 02 13:04:55  2018,387092820,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerCertificatesTest,-1,1,0,true
+387092818,Sat Jun 02 13:04:55  2018,387092821,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerCertificatesTest,-1,1,0,true
+387092818,Sat Jun 02 13:04:55  2018,387092822,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerCertificatesTest,-1,1,0,true
+387092818,Sat Jun 02 13:04:55  2018,387092823,$ mvn clean -Dsurefire.rerunFailingTestsCount=1 test,SingleModuleBuild,com.spotify.docker.client.DockerCertificatesTest,-1,1,0,true
