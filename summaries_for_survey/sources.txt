@@ -9,3 +9,12 @@ file:///Users/seb/versioned/documents/ci-smell-images/summarizer-output/codecent
 
 skipped tests:
 file:///Users/seb/versioned/documents/ci-smell-images/summarizer-output/openmrs_openmrs-core/openmrs_openmrs-core.html
+
+
+Late Merging: Benefits of CI diminish, when individual feature branches are synchronized sparsely or when they are too long-lived. We point out several scenarios in our reports that might indicate such a "Late Merging".
+
+Failed-Test Skipping: Having an elaborated test-suite is one of the pillars of continuous integration. It provides protection from invalid changes and failing tests have to be taken seriously. Deleting or skipping a failing test might fix a broken build, but it is a removal of the symptom rather than a fix of the root cause and should be avoided.
+
+Broken Release Branch: The CI pipeline requires a working build to properly assess whether changes introduce a problem, so recovering the build is the highest team priority. A build on the release branch typically also involves the deployment of the build results and should never fail. Our summary provides an overview over the number of recent release-branch failures and indicates the trend over time.
+
+Slow Build: Build times can increase due to high workload of the build server or due to increased project complexity over time. In fact, slow-down is often hard to detect, because it slowly creeps into the project. A slow build causes wait times for developers, adds a large overhead to the whole process, and should be avoided. Our summary provides an overview over recent build times and reports recent cases, in which the build duration takes substantially longer than usual.
