@@ -1,0 +1,21 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+369223526,Fri Apr 20 16:59:08  2018,369223527,$ mvn test -B,Mage Tests,org.mage.test.cards.planeswalker.RedirectDamageToPlaneswalkerTest,-1,1,0,true
+369223526,Fri Apr 20 16:59:08  2018,369223527,$ mvn test -B,Mage Tests,org.mage.test.cards.replacement.DamageEffectsTest,-1,1,0,true
+369363821,Sat Apr 21 00:11:55  2018,369363822,$ mvn test -B,Mage Tests,org.mage.test.cards.copy.PhantasmalImageTest,-1,1,0,true
+369363821,Sat Apr 21 00:11:55  2018,369363822,$ mvn test -B,Mage Tests,org.mage.test.cards.single.bfz.BrutalExpulsionTest,-1,1,0,true
+369363821,Sat Apr 21 00:11:55  2018,369363822,$ mvn test -B,Mage Tests,org.mage.test.cards.abilities.keywords.LandfallTest,-1,1,0,true
+369365495,Sat Apr 21 00:21:43  2018,369365496,$ mvn test -B,Mage Tests,org.mage.test.cards.abilities.keywords.EscalateTest,-1,2,0,true
+369367332,Sat Apr 21 00:29:36  2018,369367333,$ mvn test -B,Mage Tests,org.mage.test.cards.single.HuntmasterOfTheFellsTest,-1,1,0,true
+334076797,Sat Jan 27 11:50:45  2018,334076798,$ mvn test -B,Mage Tests,org.mage.test.load.LoadTest,-1,1,1,true
+366638606,Sat Apr 14 23:18:47  2018,366638607,$ mvn test -B,Mage Tests,org.mage.test.cards.continuous.EightAndAHalfTailsTest,-1,1,0,true
+388438316,Tue Jun 05 19:40:07  2018,388438317,$ mvn test -B,Mage Tests,org.mage.test.cards.mana.VorinclexVoiceOfHungerTest,-1,1,0,true
+396670039,Tue Jun 26 01:40:42  2018,396670040,$ mvn test -B,Mage Tests,org.mage.test.cards.mana.HarvesterDruidTest,-2,2,0,true
+396670039,Tue Jun 26 01:40:42  2018,396670040,$ mvn test -B,Mage Tests,org.mage.test.cards.mana.SylvokExplorerTest,-1,1,0,true
+396670039,Tue Jun 26 01:40:42  2018,396670040,$ mvn test -B,Mage Tests,org.mage.test.cards.mana.ConditionalManaTest,-1,1,0,true
+396670039,Tue Jun 26 01:40:42  2018,396670040,$ mvn test -B,Mage Tests,org.mage.test.cards.mana.ReflectingPoolTest,-3,3,0,true
+396671824,Tue Jun 26 01:56:54  2018,396671825,$ mvn test -B,Mage Tests,org.mage.test.cards.mana.VorinclexVoiceOfHungerTest,-1,1,0,true
+399810722,Wed Jul 04 00:00:10  2018,399810723,$ mvn test -B,Mage Tests,org.mage.test.cards.mana.VorinclexVoiceOfHungerTest,-1,1,0,true
+399810722,Wed Jul 04 00:00:10  2018,399810723,$ mvn test -B,Mage Tests,org.mage.test.cards.mana.HarvesterDruidTest,-2,2,0,true
+399810722,Wed Jul 04 00:00:10  2018,399810723,$ mvn test -B,Mage Tests,org.mage.test.cards.mana.SylvokExplorerTest,-1,1,0,true
+399810722,Wed Jul 04 00:00:10  2018,399810723,$ mvn test -B,Mage Tests,org.mage.test.cards.mana.ConditionalManaTest,-1,1,0,true
+399810722,Wed Jul 04 00:00:10  2018,399810723,$ mvn test -B,Mage Tests,org.mage.test.cards.mana.ReflectingPoolTest,-3,3,0,true
