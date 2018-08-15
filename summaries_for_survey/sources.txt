@@ -1,0 +1,11 @@
+late merging:
+Carmines project (in the paper repo)
+
+slow builds
+file:///Users/seb/versioned/documents/ci-smell-images/summarizer-output/google_closure-compiler/google_closure-compiler.html
+
+broken release branch:
+file:///Users/seb/versioned/documents/ci-smell-images/summarizer-output/codecentric_spring-boot-admin/codecentric_spring-boot-admin.html
+
+skipped tests:
+file:///Users/seb/versioned/documents/ci-smell-images/summarizer-output/openmrs_openmrs-core/openmrs_openmrs-core.html
