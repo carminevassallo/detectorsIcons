@@ -1,6 +1,4 @@
 buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
-346774406,Tue Feb 27 13:31:25  2018,346774409,$ mvn verify,Weld Integration Tests (JBoss AS),org.jboss.weld.tests.ejb.EJBCallTest,-1,1,0,true
-346774406,Tue Feb 27 13:31:25  2018,346774409,$ mvn verify,Weld Integration Tests (JBoss AS),org.jboss.weld.tests.interceptors.bridgemethods.hierarchy.InterceptorBridgeMethodTest,-1,1,5,true
 359386944,Wed Mar 28 14:09:09  2018,359386945,$ mvn verify,CDI TCK runner (2.0) for Weld (WildFly),TestSuite,-1,-8,-5,true
 359386944,Wed Mar 28 14:09:09  2018,359386946,$ mvn verify,CDI TCK runner (2.0) for Weld (WildFly),TestSuite,-1,-8,-5,true
 361621847,Tue Apr 03 12:45:11  2018,361621848,$ mvn verify,CDI TCK runner (2.0) for Weld (WildFly),TestSuite,-1,-8,-9,true
