@@ -1,0 +1,5 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+391321989,Tue Jun 12 15:24:50  2018,391321990,$ mvn clean verify -B,Axon Framework core,org.axonframework.deadline.SimpleDeadlineManagerTest,-9,0,-5,true
+391321989,Tue Jun 12 15:24:50  2018,391321990,$ mvn clean verify -B,Axon Framework core,org.axonframework.deadline.QuartzDeadlineManagerTest,-9,0,-5,true
+368073733,Wed Apr 18 10:15:34  2018,368073734,$ mvn clean verify -B,Axon Framework Spring Support,org.axonframework.spring.config.SpringAxonAutoConfigurerTest,-1,0,-1,true
+405555718,Wed Jul 18 21:36:49  2018,405555719,$ mvn clean verify -B,Axon Framework core,org.axonframework.queryhandling.DefaultQueryGatewayTest,-1,0,-1,true

@@ -1,0 +1,2 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+381309240,Sun May 20 12:12:23  2018,381309241,$ mvn -B -fae -T4 -Dall clean install -PnoLocalChanges,Extensions to EPSG authority factory,org.geotools.util.TemporalConverterFactoryTest,-1,0,-1,true

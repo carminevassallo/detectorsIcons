@@ -1,0 +1,2 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+374416628,Thu May 03 13:31:00  2018,374416629,$ mvn clean verify,Thingsboard Server DAO Layer,org.thingsboard.server.dao.SqlDaoServiceTestSuite,-1,0,-1,true

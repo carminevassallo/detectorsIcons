@@ -1,0 +1,10 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+329062890,Mon Jan 15 13:59:01  2018,329062891,$ mvn -Dsurefire.rerunFailingTestsCount=3 cobertura:cobertura test,SingleModuleBuild,fi.helsinki.cs.tmc.cli.analytics.AnalyticsFacadeTest,-4,0,-3,true
+333755769,Fri Jan 26 14:54:44  2018,333755770,$ mvn -Dsurefire.rerunFailingTestsCount=3 cobertura:cobertura test,SingleModuleBuild,fi.helsinki.cs.tmc.cli.backend.TmcUtilTest,-4,0,-3,true
+336528511,Fri Feb 02 12:18:11  2018,336528512,$ mvn -Dsurefire.rerunFailingTestsCount=3 cobertura:cobertura test,SingleModuleBuild,fi.helsinki.cs.tmc.cli.command.ConfigCommandTest,-8,0,-6,true
+336528511,Fri Feb 02 12:18:11  2018,336528512,$ mvn -Dsurefire.rerunFailingTestsCount=3 cobertura:cobertura test,SingleModuleBuild,fi.helsinki.cs.tmc.cli.command.RunTestsCommandTest,-12,0,-9,true
+340932365,Tue Feb 13 12:51:21  2018,340932368,$ mvn -Dsurefire.rerunFailingTestsCount=3 cobertura:cobertura test,SingleModuleBuild,fi.helsinki.cs.tmc.cli.command.SubmitCommandTest,-32,0,-24,true
+340934058,Tue Feb 13 12:55:46  2018,340934059,$ mvn -Dsurefire.rerunFailingTestsCount=3 cobertura:cobertura test,SingleModuleBuild,fi.helsinki.cs.tmc.cli.command.DownloadExercisesCommandTest,-16,0,-12,true
+341854617,Thu Feb 15 12:02:28  2018,341854618,$ mvn -Dsurefire.rerunFailingTestsCount=3 cobertura:cobertura test,SingleModuleBuild,fi.helsinki.cs.tmc.cli.backend.SettingsTest,-4,0,-3,true
+341843263,Thu Feb 15 11:30:52  2018,341843264,$ mvn -Dsurefire.rerunFailingTestsCount=3 cobertura:cobertura test,SingleModuleBuild,fi.helsinki.cs.tmc.cli.command.DownloadExercisesCommandTest,-8,0,-6,true
+341843263,Thu Feb 15 11:30:52  2018,341843264,$ mvn -Dsurefire.rerunFailingTestsCount=3 cobertura:cobertura test,SingleModuleBuild,fi.helsinki.cs.tmc.cli.command.ConfigCommandTest,-12,0,-9,true

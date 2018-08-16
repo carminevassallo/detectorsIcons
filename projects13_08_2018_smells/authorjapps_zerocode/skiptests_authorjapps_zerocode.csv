@@ -1,0 +1,9 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+413212483,Tue Aug 07 16:54:57  2018,413212484,$ mvn test -B,SingleModuleBuild,org.jsmart.zerocode.core.junit.JunitUsualWithZerocodeUnitTest,-1,1,0,true
+378403298,Sun May 13 16:10:41  2018,378403299,$ mvn test -B,SingleModuleBuild,org.jsmart.zerocode.core.httpclient.ssl.SslTrustCorporateProxyHttpClientTest,-1,1,0,true
+378403298,Sun May 13 16:10:41  2018,378403299,$ mvn test -B,SingleModuleBuild,org.jsmart.zerocode.core.domain.ScenarioSpecTest,-1,3,6,true
+378403298,Sun May 13 16:10:41  2018,378403299,$ mvn test -B,SingleModuleBuild,org.jsmart.zerocode.core.soap.SoapCorpProxySslHttpClientTest,-1,1,0,true
+378403298,Sun May 13 16:10:41  2018,378403299,$ mvn test -B,SingleModuleBuild,org.jsmart.zerocode.core.soap.SoapEndPointTest,-1,2,1,true
+378403298,Sun May 13 16:10:41  2018,378403299,$ mvn test -B,SingleModuleBuild,org.jsmart.zerocode.core.runner.ZeroCodeMultiStepsScenarioRunnerImplVerifyTest,-1,1,4,true
+360844893,Sun Apr 01 10:59:06  2018,360844894,$ mvn test -B,SingleModuleBuild,org.jsmart.zerocode.core.soap.SoapEndPointTest,-2,2,0,true
+390152935,Sat Jun 09 16:11:05  2018,390152936,$ mvn test -B,SingleModuleBuild,org.jsmart.zerocode.parallel.TestGitHubApi,-1,1,0,true
