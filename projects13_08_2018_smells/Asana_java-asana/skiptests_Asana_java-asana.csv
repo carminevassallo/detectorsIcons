@@ -1,0 +1,4 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+407291735,Mon Jul 23 18:57:23  2018,407291736,$ mvn test -B,SingleModuleBuild,com.asana.ErrorsTest,-1,0,-1,true
+407291735,Mon Jul 23 18:57:23  2018,407291737,$ mvn test -B,SingleModuleBuild,com.asana.ErrorsTest,-1,0,-1,true
+407291735,Mon Jul 23 18:57:23  2018,407291738,$ mvn test -B,SingleModuleBuild,com.asana.ErrorsTest,-1,0,-1,true
