@@ -1,2 +1,0 @@
-buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
-334685366,Mon Jan 29 12:53:51  2018,334685367,$ mvn test -B,HTML Form Entry OMOD,org.openmrs.htmlformentry.web.controller.HtmlFormAjaxValidationControllerTest,-3,0,-1,true

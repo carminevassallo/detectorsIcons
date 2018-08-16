@@ -1,2 +1,0 @@
-buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
-338156537,Tue Feb 06 19:12:58  2018,338156540,$ mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar,SingleModuleBuild,HelloWorldTest,-1,0,-1,true

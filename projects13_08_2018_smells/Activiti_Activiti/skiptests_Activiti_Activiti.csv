@@ -1,7 +1,0 @@
-buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
-343298757,Mon Feb 19 10:18:43  2018,343298758,$ mvn verify -B -Pdistrodependency-check,Activiti - DMN Engine,org.activiti.dmn.engine.test.DeploymentTest,-14,0,-7,true
-343298757,Mon Feb 19 10:18:43  2018,343298758,$ mvn verify -B -Pdistrodependency-check,Activiti - DMN Engine,org.activiti.dmn.engine.test.RuntimeTest,-38,0,-19,true
-343298757,Mon Feb 19 10:18:43  2018,343298758,$ mvn verify -B -Pdistrodependency-check,Activiti - DMN Engine,org.activiti.dmn.engine.test.runtime.DecisionRuntimeTest,-2,0,-1,true
-342980171,Sun Feb 18 11:16:30  2018,342980172,$ mvn verify -B -Pdistrodependency-check,Activiti - DMN Engine,org.activiti.dmn.engine.test.DeploymentTest,-14,0,-7,true
-342980171,Sun Feb 18 11:16:30  2018,342980172,$ mvn verify -B -Pdistrodependency-check,Activiti - DMN Engine,org.activiti.dmn.engine.test.RuntimeTest,-38,0,-19,true
-342980171,Sun Feb 18 11:16:30  2018,342980172,$ mvn verify -B -Pdistrodependency-check,Activiti - DMN Engine,org.activiti.dmn.engine.test.runtime.DecisionRuntimeTest,-2,0,-1,true

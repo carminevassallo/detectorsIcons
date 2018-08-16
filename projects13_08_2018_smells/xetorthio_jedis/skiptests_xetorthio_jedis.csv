@@ -1,8 +1,0 @@
-buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
-350395846,Wed Mar 07 17:47:05  2018,350395847,$ TEST="\!ModuleTest" make test,SingleModuleBuild,redis.clients.jedis.tests.ConnectionTest,-1,0,-1,true
-350395846,Wed Mar 07 17:47:05  2018,350395849,$ TEST="\!ModuleTest" make test,SingleModuleBuild,redis.clients.jedis.tests.ConnectionTest,-1,0,-1,true
-365940424,Fri Apr 13 04:25:46  2018,365940425,$ TEST="\!ModuleTest" make test,SingleModuleBuild,redis.clients.jedis.tests.JedisSentinelPoolTest,-2,0,-1,true
-394625633,Wed Jun 20 15:50:41  2018,394625634,$ TEST="\!ModuleTest" make test,SingleModuleBuild,redis.clients.jedis.tests.commands.RenameProtocolCommandsTest,-4,0,-2,true
-394625633,Wed Jun 20 15:50:41  2018,394625635,$ TEST="\!ModuleTest" make test,SingleModuleBuild,redis.clients.jedis.tests.commands.RenameProtocolCommandsTest,-4,0,-2,true
-410625966,Sat Aug 11 18:08:53  2018,410625967,$ TEST="\!ModuleTest" make test,SingleModuleBuild,redis.clients.jedis.tests.commands.ControlCommandsTest,-6,0,-1,true
-410625966,Sat Aug 11 18:08:53  2018,410625968,$ TEST="\!ModuleTest" make test,SingleModuleBuild,redis.clients.jedis.tests.commands.ControlCommandsTest,-6,0,-1,true

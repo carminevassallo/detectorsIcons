@@ -1,3 +1,0 @@
-buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
-392935588,Fri Jun 15 23:09:08  2018,392935589,$ mvn install --batch-mode,Closure Compiler Unshaded,com.google.javascript.jscomp.CompilerTest,-1,0,-1,true
-405169835,Wed Jul 18 02:02:44  2018,405169837,$ mvn install --batch-mode,Closure Compiler Unshaded,com.google.javascript.jscomp.IntegrationTest,-1,0,-1,true

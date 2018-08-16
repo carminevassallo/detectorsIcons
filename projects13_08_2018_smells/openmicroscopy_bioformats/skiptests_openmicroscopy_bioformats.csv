@@ -1,2 +1,0 @@
-buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
-357033414,Thu Mar 22 18:44:22  2018,357033415,$ ./tools/test-build $BUILD,BSD Bio-Formats readers and writers,TestSuite,-38,-100,-2,true

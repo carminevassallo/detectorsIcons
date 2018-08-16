@@ -1,4 +1,0 @@
-buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
-348466562,Fri Mar 02 23:00:19  2018,348466563,$ mvn -Dfcrepo.streaming.parallel=true install -B -V,Fedora Repository HTTP API Module,org.fcrepo.integration.http.api.FedoraVersioningIT,-1,0,-2,true
-350387985,Wed Mar 07 16:02:36  2018,350387986,$ mvn -Dfcrepo.streaming.parallel=true install -B -V,Fedora Repository HTTP API Module,org.fcrepo.integration.http.api.FedoraLdpIT,-7,0,-1,true
-372019525,Fri Apr 27 12:56:12  2018,372019526,$ mvn -Dfcrepo.streaming.parallel=true install -B -V,Fedora Repository HTTP API Module,org.fcrepo.integration.http.api.FedoraVersioningIT,-1,0,-1,true

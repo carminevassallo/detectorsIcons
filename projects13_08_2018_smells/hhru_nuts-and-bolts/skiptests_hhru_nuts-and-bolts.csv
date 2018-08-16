@@ -1,2 +1,0 @@
-buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
-403688003,Fri Jul 13 18:58:43  2018,403688004,$ mvn clean compile cobertura:instrument test && cobertura-merge */target/cobertura/*.ser && cobertura-report --destination target/cobertura --format xml,nuts'n'bolts data source utils,ru.hh.nab.datasource.DataSourceFactoryTest,-2,0,-1,true
