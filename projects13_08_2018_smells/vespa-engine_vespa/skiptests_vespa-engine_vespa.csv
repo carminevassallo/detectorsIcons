@@ -1,0 +1,15 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+328115799,Fri Jan 12 13:31:34  2018,328115801,$ ./travis/travis.sh,vespa-athenz,com.yahoo.vespa.hosted.controller.restapi.screwdriver.ScrewdriverApiTest,-8,0,-4,true
+328115799,Fri Jan 12 13:31:34  2018,328115801,$ ./travis/travis.sh,vespa-athenz,com.yahoo.vespa.hosted.controller.restapi.zone.v1.ZoneApiTest,-4,0,-2,true
+328115799,Fri Jan 12 13:31:34  2018,328115801,$ ./travis/travis.sh,vespa-athenz,com.yahoo.vespa.hosted.controller.restapi.zone.v2.ZoneApiTest,-4,0,-2,true
+328115799,Fri Jan 12 13:31:34  2018,328115801,$ ./travis/travis.sh,vespa-athenz,com.yahoo.vespa.hosted.controller.restapi.application.ApplicationApiTest,-14,0,-7,true
+328115799,Fri Jan 12 13:31:34  2018,328115801,$ ./travis/travis.sh,vespa-athenz,com.yahoo.vespa.hosted.controller.restapi.deployment.DeploymentApiTest,-2,0,-1,true
+328115799,Fri Jan 12 13:31:34  2018,328115801,$ ./travis/travis.sh,vespa-athenz,com.yahoo.vespa.hosted.controller.restapi.controller.ControllerApiTest,-4,0,-2,true
+329399334,Tue Jan 16 10:19:31  2018,329399335,$ ./travis/travis.sh,node-maintainer,com.yahoo.vespa.hosted.node.verification.hardware.BenchmarkResultInspectorTest,-1,0,-1,true
+336479298,Fri Feb 02 09:48:26  2018,336479301,$ ./travis/travis.sh,controller-server,com.yahoo.vespa.hosted.controller.ControllerTest,-1,0,-1,true
+344747592,Thu Feb 22 11:20:52  2018,344747593,$ ./travis/travis.sh,controller-server,com.yahoo.vespa.hosted.controller.restapi.screwdriver.ScrewdriverApiTest,-8,0,-4,true
+344747592,Thu Feb 22 11:20:52  2018,344747593,$ ./travis/travis.sh,controller-server,com.yahoo.vespa.hosted.controller.restapi.zone.v1.ZoneApiTest,-4,0,-2,true
+344747592,Thu Feb 22 11:20:52  2018,344747593,$ ./travis/travis.sh,controller-server,com.yahoo.vespa.hosted.controller.restapi.zone.v2.ZoneApiTest,-4,0,-2,true
+344747592,Thu Feb 22 11:20:52  2018,344747593,$ ./travis/travis.sh,controller-server,com.yahoo.vespa.hosted.controller.restapi.application.ApplicationApiTest,-14,0,-7,true
+344747592,Thu Feb 22 11:20:52  2018,344747593,$ ./travis/travis.sh,controller-server,com.yahoo.vespa.hosted.controller.restapi.deployment.DeploymentApiTest,-2,0,-1,true
+344747592,Thu Feb 22 11:20:52  2018,344747593,$ ./travis/travis.sh,controller-server,com.yahoo.vespa.hosted.controller.restapi.controller.ControllerApiTest,-4,0,-2,true

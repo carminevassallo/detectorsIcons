@@ -1,0 +1,2 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+410757812,Wed Aug 01 11:20:12  2018,410757813,$ mvn test -T 2.0C -B ${MVN_EXCLUDE_MODULES},io.cloudslang.content:cs-lists,io.cloudslang.content.utils.ListProcessorTest,-2,0,-13,true

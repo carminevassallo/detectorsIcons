@@ -1,0 +1,12 @@
+buildId,date,jobId,execution,module,test,delta_broken,delta_testcases,delta_skipped,warning
+328044799,Fri Jan 12 09:45:22  2018,328044800,$ mvn test -B,perun-dispatcher,cz.metacentrum.perun.dispatcher.unit.TaskSchedulerTest,-1,0,-3,true
+328080788,Fri Jan 12 11:43:09  2018,328080789,$ mvn test -B,perun-dispatcher,cz.metacentrum.perun.dispatcher.unit.TaskSchedulerTest,-1,0,-3,true
+330714828,Fri Jan 19 08:51:36  2018,330714829,$ mvn test -B,perun-dispatcher,cz.metacentrum.perun.dispatcher.unit.TaskSchedulerTest,-1,0,-3,true
+331680579,Mon Jan 22 06:52:17  2018,331680580,$ mvn test -B,perun-dispatcher,cz.metacentrum.perun.dispatcher.unit.TaskSchedulerTest,-1,0,-3,true
+332279749,Tue Jan 23 12:45:26  2018,332279750,$ mvn test -B,perun-dispatcher,cz.metacentrum.perun.dispatcher.unit.TaskSchedulerTest,-1,0,-3,true
+333687598,Fri Jan 26 11:56:26  2018,333687599,$ mvn test -B,perun-dispatcher,cz.metacentrum.perun.dispatcher.unit.TaskSchedulerTest,-1,0,-3,true
+337972994,Tue Feb 06 11:47:19  2018,337972995,$ mvn test -B,perun-dispatcher,cz.metacentrum.perun.dispatcher.unit.TaskSchedulerTest,-1,0,-3,true
+351285071,Fri Mar 09 12:39:40  2018,351285072,$ mvn test -B,perun-dispatcher,cz.metacentrum.perun.dispatcher.unit.TaskSchedulerTest,-1,0,-3,true
+352738650,Tue Mar 13 09:15:07  2018,352738651,$ mvn test -B,perun-dispatcher,cz.metacentrum.perun.dispatcher.unit.TaskSchedulerTest,-1,0,-3,true
+353711837,Thu Mar 15 08:19:03  2018,353711838,$ mvn test -B,perun-dispatcher,cz.metacentrum.perun.dispatcher.unit.TaskSchedulerTest,-1,0,-3,true
+354271507,Fri Mar 16 11:24:48  2018,354271508,$ mvn test -B,perun-dispatcher,cz.metacentrum.perun.dispatcher.unit.TaskSchedulerTest,-2,0,-3,true
