@@ -43,3 +43,15 @@ build_id,date,open_branch,is_open,time_last_sync_with_master,time_last_related_c
 351773854,Sat Mar 10 19:10:32  2018,investigate-failures,true,Wed Feb 28 20:21:42  2018,Wed Feb 28 20:53:24  2018,Sat Mar 10 19:10:32  2018,master,Wed Feb 28 20:21:42  2018,859730000,857828000,1902000,1902000
 351773854,Sat Mar 10 19:10:32  2018,master,true,Wed Feb 28 20:29:37  2018,Sat Mar 10 19:10:32  2018,Wed Feb 28 23:20:14  2018,generic_non_optional_issue,Wed Feb 28 20:29:37  2018,10237000,-1,859255000,859255000
 351773854,Sat Mar 10 19:10:32  2018,generic_non_optional_issue,true,Wed Feb 28 22:46:18  2018,Wed Feb 28 23:20:14  2018,Sat Mar 10 19:10:32  2018,master,Wed Feb 28 22:46:18  2018,851054000,849018000,2036000,2036000
+build_id,date,open_branch,is_open,time_last_sync_with_master,time_last_related_commit,time_last_unrelated_commit,branch_of_last_unrelated_commit,time_fork,unrelated_activity_since_last_sync,balanced_activity_between_unrelated_branches,branch_activity_since_last_sync,branch_activity_total
+347454322,Wed Feb 28 20:29:37  2018,master,true,Wed Feb 28 20:29:37  2018,Wed Feb 28 20:29:37  2018,null,null,Wed Feb 28 20:29:37  2018,-1,-1,0,0
+347460604,Wed Feb 28 20:44:39  2018,master,true,Wed Feb 28 20:29:37  2018,Wed Feb 28 20:44:39  2018,null,null,Wed Feb 28 20:29:37  2018,-1,-1,902000,902000
+347463587,Wed Feb 28 20:51:21  2018,master,true,Wed Feb 28 20:29:37  2018,Wed Feb 28 20:51:21  2018,null,null,Wed Feb 28 20:29:37  2018,-1,-1,1304000,1304000
+347464682,Wed Feb 28 20:54:23  2018,master,true,Wed Feb 28 20:29:37  2018,Wed Feb 28 20:54:23  2018,null,null,Wed Feb 28 20:29:37  2018,-1,-1,1486000,1486000
+347511468,Wed Feb 28 22:42:08  2018,master,true,Wed Feb 28 20:29:37  2018,Wed Feb 28 22:42:08  2018,null,null,Wed Feb 28 20:29:37  2018,-1,-1,7951000,7951000
+347528462,Wed Feb 28 23:25:45  2018,master,true,Wed Feb 28 20:29:37  2018,Wed Feb 28 23:25:45  2018,null,null,Wed Feb 28 20:29:37  2018,-1,-1,10568000,10568000
+347529667,Wed Feb 28 23:29:29  2018,master,true,Wed Feb 28 20:29:37  2018,Wed Feb 28 23:29:29  2018,null,null,Wed Feb 28 20:29:37  2018,-1,-1,10792000,10792000
+347532841,Wed Feb 28 23:38:52  2018,master,true,Wed Feb 28 20:29:37  2018,Wed Feb 28 23:38:52  2018,null,null,Wed Feb 28 20:29:37  2018,-1,-1,11355000,11355000
+347536280,Wed Feb 28 23:49:07  2018,master,true,Wed Feb 28 20:29:37  2018,Wed Feb 28 23:49:07  2018,null,null,Wed Feb 28 20:29:37  2018,-1,-1,11970000,11970000
+347538832,Wed Feb 28 23:56:17  2018,master,true,Wed Feb 28 20:29:37  2018,Wed Feb 28 23:56:17  2018,null,null,Wed Feb 28 20:29:37  2018,-1,-1,12400000,12400000
+351773854,Sat Mar 10 19:10:32  2018,master,true,Wed Feb 28 20:29:37  2018,Sat Mar 10 19:10:32  2018,null,null,Wed Feb 28 20:29:37  2018,-1,-1,859255000,859255000

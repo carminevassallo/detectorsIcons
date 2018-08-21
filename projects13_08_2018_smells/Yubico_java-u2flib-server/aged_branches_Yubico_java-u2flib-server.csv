@@ -29,3 +29,5 @@ build_id,date,open_branch,is_open,time_last_sync_with_master,time_last_related_c
 365149629,Wed Apr 11 14:30:26  2018,webauthn-demo,true,Wed Jan 17 17:55:13  2018,Wed Mar 21 14:31:50  2018,Mon Mar 26 09:01:55  2018,webauthn-cr,Wed Jan 17 17:55:13  2018,5839602000,408605000,5430997000,5430997000
 365149629,Wed Apr 11 14:30:26  2018,webauthn-cr,true,Wed Mar 21 19:29:49  2018,Mon Mar 26 09:01:55  2018,Wed Mar 21 14:31:50  2018,webauthn-demo,Wed Mar 21 19:29:49  2018,-1,-1,390726000,390726000
 365149629,Wed Apr 11 14:30:26  2018,webauthn-dyc,true,Wed Apr 11 14:30:26  2018,Wed Apr 11 14:30:26  2018,Mon Mar 26 09:01:55  2018,webauthn-cr,Wed Apr 11 14:30:26  2018,-1,-1,0,0
+build_id,date,open_branch,is_open,time_last_sync_with_master,time_last_related_commit,time_last_unrelated_commit,branch_of_last_unrelated_commit,time_fork,unrelated_activity_since_last_sync,balanced_activity_between_unrelated_branches,branch_activity_since_last_sync,branch_activity_total
+329136968,Mon Jan 15 16:44:54  2018,master,true,Mon Jan 15 16:44:54  2018,Mon Jan 15 16:44:54  2018,null,null,Mon Jan 15 16:44:54  2018,-1,-1,0,0

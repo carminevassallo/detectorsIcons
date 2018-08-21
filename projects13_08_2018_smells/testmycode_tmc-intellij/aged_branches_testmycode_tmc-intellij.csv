@@ -73,3 +73,21 @@ build_id,date,open_branch,is_open,time_last_sync_with_master,time_last_related_c
 383674641,Fri May 25 12:20:44  2018,master,true,Thu Jan 11 13:41:05  2018,Fri May 25 12:20:44  2018,Tue Apr 10 07:38:20  2018,oauth,Thu Jan 11 13:41:05  2018,7664235000,-1,11569179000,11569179000
 415360852,Mon Aug 13 09:26:44  2018,oauth,true,Tue Jan 02 10:36:09  2018,Tue Apr 10 07:38:20  2018,Mon Aug 13 09:26:44  2018,master,Tue Jan 02 10:36:09  2018,19259435000,10806504000,8452931000,8452931000
 415360852,Mon Aug 13 09:26:44  2018,master,true,Thu Jan 11 13:41:05  2018,Mon Aug 13 09:26:44  2018,Tue Apr 10 07:38:20  2018,oauth,Thu Jan 11 13:41:05  2018,7664235000,-1,18470739000,18470739000
+build_id,date,open_branch,is_open,time_last_sync_with_master,time_last_related_commit,time_last_unrelated_commit,branch_of_last_unrelated_commit,time_fork,unrelated_activity_since_last_sync,balanced_activity_between_unrelated_branches,branch_activity_since_last_sync,branch_activity_total
+327687986,Thu Jan 11 13:41:05  2018,master,true,Thu Jan 11 13:41:05  2018,Thu Jan 11 13:41:05  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,0,0
+364475386,Tue Apr 10 07:24:52  2018,master,true,Thu Jan 11 13:41:05  2018,Tue Apr 10 07:24:52  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,7663427000,7663427000
+364476467,Tue Apr 10 07:28:12  2018,master,true,Thu Jan 11 13:41:05  2018,Tue Apr 10 07:28:12  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,7663627000,7663627000
+364479862,Tue Apr 10 07:38:19  2018,master,true,Thu Jan 11 13:41:05  2018,Tue Apr 10 07:38:19  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,7664234000,7664234000
+364481956,Tue Apr 10 07:45:09  2018,master,true,Thu Jan 11 13:41:05  2018,Tue Apr 10 07:45:09  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,7664644000,7664644000
+366063136,Fri Apr 13 11:26:57  2018,master,true,Thu Jan 11 13:41:05  2018,Fri Apr 13 11:26:57  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,7937152000,7937152000
+366074970,Fri Apr 13 12:00:46  2018,master,true,Thu Jan 11 13:41:05  2018,Fri Apr 13 12:00:46  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,7939181000,7939181000
+368599219,Thu Apr 19 11:25:27  2018,master,true,Thu Jan 11 13:41:05  2018,Thu Apr 19 11:25:27  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,8455462000,8455462000
+368600932,Thu Apr 19 11:30:48  2018,master,true,Thu Jan 11 13:41:05  2018,Thu Apr 19 11:30:48  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,8455783000,8455783000
+368604276,Thu Apr 19 11:39:23  2018,master,true,Thu Jan 11 13:41:05  2018,Thu Apr 19 11:39:23  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,8456298000,8456298000
+368649470,Thu Apr 19 13:31:07  2018,master,true,Thu Jan 11 13:41:05  2018,Thu Apr 19 13:31:07  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,8463002000,8463002000
+371467584,Thu Apr 26 09:26:30  2018,master,true,Thu Jan 11 13:41:05  2018,Thu Apr 26 09:26:30  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,9053125000,9053125000
+371473661,Thu Apr 26 09:41:59  2018,master,true,Thu Jan 11 13:41:05  2018,Thu Apr 26 09:41:59  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,9054054000,9054054000
+383204221,Thu May 24 13:48:39  2018,master,true,Thu Jan 11 13:41:05  2018,Thu May 24 13:48:39  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,11488054000,11488054000
+383205276,Thu May 24 13:51:27  2018,master,true,Thu Jan 11 13:41:05  2018,Thu May 24 13:51:27  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,11488222000,11488222000
+383674641,Fri May 25 12:20:44  2018,master,true,Thu Jan 11 13:41:05  2018,Fri May 25 12:20:44  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,11569179000,11569179000
+415360852,Mon Aug 13 09:26:44  2018,master,true,Thu Jan 11 13:41:05  2018,Mon Aug 13 09:26:44  2018,null,null,Thu Jan 11 13:41:05  2018,-1,-1,18470739000,18470739000
