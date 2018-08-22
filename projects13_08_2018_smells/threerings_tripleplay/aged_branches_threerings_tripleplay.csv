@@ -19,24 +19,3 @@ build_id,date,open_branch,is_open,time_last_sync_with_master,time_last_related_c
 381781695,Mon May 21 17:34:49  2018,master,true,Mon Jan 08 16:30:25  2018,Mon May 21 17:34:49  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,11491464000,11491464000
 381785928,Mon May 21 17:44:47  2018,master,true,Mon Jan 08 16:30:25  2018,Mon May 21 17:44:47  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,11492062000,11492062000
 381793135,Mon May 21 18:01:52  2018,master,true,Mon Jan 08 16:30:25  2018,Mon May 21 18:01:52  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,11493087000,11493087000
-build_id,date,open_branch,is_open,time_last_sync_with_master,time_last_related_commit,time_last_unrelated_commit,branch_of_last_unrelated_commit,time_fork,unrelated_activity_since_last_sync,balanced_activity_between_unrelated_branches,branch_activity_since_last_sync,branch_activity_total
-326443322,Mon Jan 08 16:30:25  2018,master,true,Mon Jan 08 16:30:25  2018,Mon Jan 08 16:30:25  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,0,0
-326451706,Mon Jan 08 16:48:53  2018,master,true,Mon Jan 08 16:30:25  2018,Mon Jan 08 16:48:53  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,1108000,1108000
-328250754,Fri Jan 12 19:38:32  2018,master,true,Mon Jan 08 16:30:25  2018,Fri Jan 12 19:38:32  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,356887000,356887000
-328256354,Fri Jan 12 19:55:24  2018,master,true,Mon Jan 08 16:30:25  2018,Fri Jan 12 19:55:24  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,357899000,357899000
-352973486,Tue Mar 13 18:06:25  2018,master,true,Mon Jan 08 16:30:25  2018,Tue Mar 13 18:06:25  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,5535360000,5535360000
-352973560,Tue Mar 13 18:07:18  2018,master,true,Mon Jan 08 16:30:25  2018,Tue Mar 13 18:07:18  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,5535413000,5535413000
-357533343,Fri Mar 23 18:38:07  2018,master,true,Mon Jan 08 16:30:25  2018,Fri Mar 23 18:38:07  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,6401262000,6401262000
-357546039,Fri Mar 23 19:09:02  2018,master,true,Mon Jan 08 16:30:25  2018,Fri Mar 23 19:09:02  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,6403117000,6403117000
-358117258,Sun Mar 25 17:54:51  2018,master,true,Mon Jan 08 16:30:25  2018,Sun Mar 25 17:54:51  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,6567866000,6567866000
-358117293,Sun Mar 25 17:55:01  2018,master,true,Mon Jan 08 16:30:25  2018,Sun Mar 25 17:55:01  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,6567876000,6567876000
-358119317,Sun Mar 25 18:01:57  2018,master,true,Mon Jan 08 16:30:25  2018,Sun Mar 25 18:01:57  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,6568292000,6568292000
-364775100,Tue Apr 10 19:25:21  2018,master,true,Mon Jan 08 16:30:25  2018,Tue Apr 10 19:25:21  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,7955696000,7955696000
-364777738,Tue Apr 10 19:30:41  2018,master,true,Mon Jan 08 16:30:25  2018,Tue Apr 10 19:30:41  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,7956016000,7956016000
-364777807,Tue Apr 10 19:30:56  2018,master,true,Mon Jan 08 16:30:25  2018,Tue Apr 10 19:30:56  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,7956031000,7956031000
-377234975,Thu May 10 11:24:38  2018,master,true,Mon Jan 08 16:30:25  2018,Thu May 10 11:24:38  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,10518853000,10518853000
-377303236,Thu May 10 14:26:06  2018,master,true,Mon Jan 08 16:30:25  2018,Thu May 10 14:26:06  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,10529741000,10529741000
-379137973,Tue May 15 09:57:05  2018,master,true,Mon Jan 08 16:30:25  2018,Tue May 15 09:57:05  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,10945600000,10945600000
-381781695,Mon May 21 17:34:49  2018,master,true,Mon Jan 08 16:30:25  2018,Mon May 21 17:34:49  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,11491464000,11491464000
-381785928,Mon May 21 17:44:47  2018,master,true,Mon Jan 08 16:30:25  2018,Mon May 21 17:44:47  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,11492062000,11492062000
-381793135,Mon May 21 18:01:52  2018,master,true,Mon Jan 08 16:30:25  2018,Mon May 21 18:01:52  2018,null,null,Mon Jan 08 16:30:25  2018,-1,-1,11493087000,11493087000
